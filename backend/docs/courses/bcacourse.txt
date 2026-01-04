@@ -1,0 +1,131 @@
+Bachelor of Computer Applications (BCA)
+Overview
+The Bachelor of Computer Applications (BCA) is an undergraduate degree program focused on computer science, software development, and information technology.
+The program aims to develop problem-solving skills, programming expertise, and practical IT knowledge required in the modern technology industry.
+
+Duration:-
+4 Years
+8 Semesters
+
+Eligibility Criteria:-
+Completion of +2 (10+2) in Management or Science
+Basic knowledge of Mathematics is preferred
+Eligibility criteria may vary by universit
+Core BCA Subjects
+The BCA program covers a wide range of foundational and advanced IT subjects:
+Programming Languages
+C, C++, Java, Python
+Data Structures & Algorithms
+Organizing, storing, and processing data efficiently
+Database Management Systems (DBMS)
+Database models, SQL, normalization, and database design
+Operating Systems
+Concepts of Windows, Linux, process management, and memory management
+Web Technologies
+HTML, CSS, JavaScript, PHP, and web application development
+Computer Networks & Cybersecurity
+Networking fundamentals, protocols, network security concepts
+Software Engineering
+Software development life cycle (SDLC), design models, and testing
+Mathematics & Statistics
+Calculus, probability, statistics, and discrete mathematics
+Computer Fundamentals & Applications
+Computer hardware, software, and common application packages
+
+
+Semester 1:-
+Computer Fundamentals
+Programming Principles (C Language)
+Mathematics I
+English / Business Communication
+Introduction to Information Technology
+
+Semester 2:-
+Object Oriented Programming (C++)
+Digital Logic & Computer Organization
+Mathematics II
+Financial Accounting
+Organizational Behavior
+
+Semester 3:-
+Data Structures & Algorithms
+Database Management Systems (DBMS)
+Operating Systems
+Numerical Methods
+Web Technologies I (HTML, CSS, JavaScript)
+
+Semester 4:-
+Java Programming
+Software Engineering
+Computer Networks
+Web Technologies II (PHP / Frameworks)
+Statistics for Computing
+
+Semester 5:-
+Python Programming
+Artificial Intelligence Fundamentals
+Mobile Application Development
+Cyber Security
+Project I (Mini Project)
+
+Semester 6:-
+Machine Learning
+Cloud Computing
+Data Analytics
+Internet of Things (IoT)
+Project II
+
+Semester 7:-
+Advanced Web Development
+Big Data Technologies
+Elective I (Artificial Intelligence / Cyber Security / Cloud Computing)
+Research Methodology
+Internship / Industrial Training
+
+Semester 8:-
+Final Year Project
+Elective II (Data Science / Blockchain / DevOps)
+IT Entrepreneurship
+Professional Ethics & IT Law
+
+
+Specializations / Electives:-
+In later semesters, students may choose specializations such as:
+Artificial Intelligence (AI) & Machine Learning
+Cloud Computing
+Mobile Application Development (Android / iOS)
+Cyber Security & Networking
+Data Analytics & Business Intelligence
+Web Development
+
+
+Recommended Textbooks:-
+Some commonly used reference books for BCA students include:
+Computer Fundamentals – Anita Goel / Pradeep K. Sinha
+The C Programming Language – Brian W. Kernighan & Dennis Ritchie
+Programming with C – Byron S. Gottfried
+Data Structures Using C – A.K. Sharma / Yashavant Kanetkar
+Operating System Concepts – Avi Silberschatz & Peter Galvin
+Digital Fundamentals – Thomas L. Floyd
+
+
+Career Opportunities:-
+After completing BCA, graduates can work as:
+Software Developer
+Web Developer
+Mobile App Developer
+Database Administrator
+System Analyst
+Network Administrator
+IT Support Engineer
+Students can also pursue higher studies such as:
+MCA (Master of Computer Applications)
+MBA (Information Systems)
+M.Sc. in Computer Science
+Professional certifications (Cloud, AI, Cybersecurity)
+
+Why Choose BCA?
+Strong foundation in computer science
+High demand in the IT industry
+Suitable for students interested in programming and technology
+Opens opportunities in software development, networking, and data science
